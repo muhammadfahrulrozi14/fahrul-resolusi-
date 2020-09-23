@@ -1,0 +1,3 @@
+Rencana September - Otober 2020
+- Membuat Projek Rental Mobil
+- Membuat Sistem Informasi Akademik

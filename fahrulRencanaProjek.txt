@@ -1,6 +1,10 @@
 Rencana September - Otober 2020
 - Membuat Projek Rental Mobil
+ coba-framework-projek-2
 *Membuat menggunakan CI3 dan Bootstrap
 *Menggunakan React JS 
 *Menggunakan Angular JS
+
+
+ master
 - Membuat Sistem Informasi Akademik

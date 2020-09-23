@@ -1,3 +1,4 @@
 Rencana September - Otober 2020
 - Membuat Projek Rental Mobil
+*Membuat menggunakan CI3 dan Bootstrap
 - Membuat Sistem Informasi Akademik
